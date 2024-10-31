@@ -1,0 +1,70 @@
+# Copyright (C) 2022 Protect Your REMote
+# This file is distributed under the same license as the Protect Your REMote package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Protect Your REMote\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Econdig: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Project-Id-Version: Protect Your REMote\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: source/work/common.php:26
+msgid "<h1>PHP To Low</h1><p>Due to the nature of this plugin, it cannot be run on lower versions of PHP.</p><p>Please contact your hosting provider to upgrade your site to at least version 7.4.</p>"
+msgstr ""
+
+#: source/work/common.php:27
+msgid "Cannot Activate: PHP To Low"
+msgstr ""
+
+#: source/work/common.php:39
+msgid "<h1>Cannot Network Activate</h1><p>Due to the nature of this plugin, it cannot be network activated.</p><p>Please go back, and activate inside your subsites.</p>"
+msgstr ""
+
+#: source/work/common.php:40
+msgid "Cannot Network Activate"
+msgstr ""
+
+#: source/work/class/pyr-frontend.php:227
+msgid "REST has been disabled."
+msgstr ""
+
+#: source/work/class/pyr-frontend.php:376, source/work/class/pyr-frontend.php:394, source/work/class/pyr-frontend.php:412
+msgid "Access Forbidden"
+msgstr ""
+
+#: source/work/class/pyr-frontend.php:377
+msgid "Your access to the RSS Feeds have been forbidden by the site admins."
+msgstr ""
+
+#: source/work/class/pyr-frontend.php:395
+msgid "Your access to the RPC has been forbidden by the site admins."
+msgstr ""
+
+#: source/work/class/pyr-frontend.php:413
+msgid "Your access to the REST API has been forbidden by the site admins."
+msgstr ""
+
+#: source/work/class/pyr-settings.php:99, source/work/class/pyr-settings.php:100
+msgid "Protect Your REmote"
+msgstr ""
+
+#: source/work/class/pyr-settings.php:139
+msgid "Protect Your REmote Settings"
+msgstr ""
+
+#: source/work/class/pyr-settings.php:147
+msgid "The settings have been saved."
+msgstr ""
+
+#: source/work/class/pyr-settings.php:165
+msgid "Save Your Settings"
+msgstr ""
